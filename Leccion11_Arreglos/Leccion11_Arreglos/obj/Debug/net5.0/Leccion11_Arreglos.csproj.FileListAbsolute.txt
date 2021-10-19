@@ -1,0 +1,15 @@
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion11_Arreglos\Leccion11_Arreglos\bin\Debug\net5.0\Leccion11_Arreglos.exe
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion11_Arreglos\Leccion11_Arreglos\bin\Debug\net5.0\Leccion11_Arreglos.deps.json
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion11_Arreglos\Leccion11_Arreglos\bin\Debug\net5.0\Leccion11_Arreglos.runtimeconfig.json
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion11_Arreglos\Leccion11_Arreglos\bin\Debug\net5.0\Leccion11_Arreglos.runtimeconfig.dev.json
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion11_Arreglos\Leccion11_Arreglos\bin\Debug\net5.0\Leccion11_Arreglos.dll
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion11_Arreglos\Leccion11_Arreglos\bin\Debug\net5.0\ref\Leccion11_Arreglos.dll
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion11_Arreglos\Leccion11_Arreglos\bin\Debug\net5.0\Leccion11_Arreglos.pdb
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion11_Arreglos\Leccion11_Arreglos\obj\Debug\net5.0\Leccion11_Arreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion11_Arreglos\Leccion11_Arreglos\obj\Debug\net5.0\Leccion11_Arreglos.AssemblyInfoInputs.cache
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion11_Arreglos\Leccion11_Arreglos\obj\Debug\net5.0\Leccion11_Arreglos.AssemblyInfo.cs
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion11_Arreglos\Leccion11_Arreglos\obj\Debug\net5.0\Leccion11_Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion11_Arreglos\Leccion11_Arreglos\obj\Debug\net5.0\Leccion11_Arreglos.dll
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion11_Arreglos\Leccion11_Arreglos\obj\Debug\net5.0\ref\Leccion11_Arreglos.dll
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion11_Arreglos\Leccion11_Arreglos\obj\Debug\net5.0\Leccion11_Arreglos.pdb
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion11_Arreglos\Leccion11_Arreglos\obj\Debug\net5.0\Leccion11_Arreglos.genruntimeconfig.cache
