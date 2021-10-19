@@ -1,0 +1,16 @@
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion8_DoWhile\Leccion8_DoWhile\bin\Debug\net5.0\Leccion8_DoWhile.exe
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion8_DoWhile\Leccion8_DoWhile\bin\Debug\net5.0\Leccion8_DoWhile.deps.json
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion8_DoWhile\Leccion8_DoWhile\bin\Debug\net5.0\Leccion8_DoWhile.runtimeconfig.json
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion8_DoWhile\Leccion8_DoWhile\bin\Debug\net5.0\Leccion8_DoWhile.runtimeconfig.dev.json
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion8_DoWhile\Leccion8_DoWhile\bin\Debug\net5.0\Leccion8_DoWhile.dll
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion8_DoWhile\Leccion8_DoWhile\bin\Debug\net5.0\ref\Leccion8_DoWhile.dll
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion8_DoWhile\Leccion8_DoWhile\bin\Debug\net5.0\Leccion8_DoWhile.pdb
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion8_DoWhile\Leccion8_DoWhile\obj\Debug\net5.0\Leccion8_DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion8_DoWhile\Leccion8_DoWhile\obj\Debug\net5.0\Leccion8_DoWhile.AssemblyInfoInputs.cache
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion8_DoWhile\Leccion8_DoWhile\obj\Debug\net5.0\Leccion8_DoWhile.AssemblyInfo.cs
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion8_DoWhile\Leccion8_DoWhile\obj\Debug\net5.0\Leccion8_DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion8_DoWhile\Leccion8_DoWhile\obj\Debug\net5.0\Leccion8_DoWhile.dll
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion8_DoWhile\Leccion8_DoWhile\obj\Debug\net5.0\ref\Leccion8_DoWhile.dll
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion8_DoWhile\Leccion8_DoWhile\obj\Debug\net5.0\Leccion8_DoWhile.pdb
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion8_DoWhile\Leccion8_DoWhile\obj\Debug\net5.0\Leccion8_DoWhile.genruntimeconfig.cache
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion8_DoWhile\Leccion8_DoWhile\obj\Debug\net5.0\Leccion8_DoWhile.csproj.AssemblyReference.cache

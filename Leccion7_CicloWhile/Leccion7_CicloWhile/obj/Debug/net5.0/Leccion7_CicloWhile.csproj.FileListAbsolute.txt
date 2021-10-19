@@ -1,0 +1,15 @@
+C:\Users\ricardo.garcia\source\repos\Leccion7_CicloWhile\Leccion7_CicloWhile\bin\Debug\net5.0\Leccion7_CicloWhile.exe
+C:\Users\ricardo.garcia\source\repos\Leccion7_CicloWhile\Leccion7_CicloWhile\bin\Debug\net5.0\Leccion7_CicloWhile.deps.json
+C:\Users\ricardo.garcia\source\repos\Leccion7_CicloWhile\Leccion7_CicloWhile\bin\Debug\net5.0\Leccion7_CicloWhile.runtimeconfig.json
+C:\Users\ricardo.garcia\source\repos\Leccion7_CicloWhile\Leccion7_CicloWhile\bin\Debug\net5.0\Leccion7_CicloWhile.runtimeconfig.dev.json
+C:\Users\ricardo.garcia\source\repos\Leccion7_CicloWhile\Leccion7_CicloWhile\bin\Debug\net5.0\Leccion7_CicloWhile.dll
+C:\Users\ricardo.garcia\source\repos\Leccion7_CicloWhile\Leccion7_CicloWhile\bin\Debug\net5.0\ref\Leccion7_CicloWhile.dll
+C:\Users\ricardo.garcia\source\repos\Leccion7_CicloWhile\Leccion7_CicloWhile\bin\Debug\net5.0\Leccion7_CicloWhile.pdb
+C:\Users\ricardo.garcia\source\repos\Leccion7_CicloWhile\Leccion7_CicloWhile\obj\Debug\net5.0\Leccion7_CicloWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricardo.garcia\source\repos\Leccion7_CicloWhile\Leccion7_CicloWhile\obj\Debug\net5.0\Leccion7_CicloWhile.AssemblyInfoInputs.cache
+C:\Users\ricardo.garcia\source\repos\Leccion7_CicloWhile\Leccion7_CicloWhile\obj\Debug\net5.0\Leccion7_CicloWhile.AssemblyInfo.cs
+C:\Users\ricardo.garcia\source\repos\Leccion7_CicloWhile\Leccion7_CicloWhile\obj\Debug\net5.0\Leccion7_CicloWhile.csproj.CoreCompileInputs.cache
+C:\Users\ricardo.garcia\source\repos\Leccion7_CicloWhile\Leccion7_CicloWhile\obj\Debug\net5.0\Leccion7_CicloWhile.dll
+C:\Users\ricardo.garcia\source\repos\Leccion7_CicloWhile\Leccion7_CicloWhile\obj\Debug\net5.0\ref\Leccion7_CicloWhile.dll
+C:\Users\ricardo.garcia\source\repos\Leccion7_CicloWhile\Leccion7_CicloWhile\obj\Debug\net5.0\Leccion7_CicloWhile.pdb
+C:\Users\ricardo.garcia\source\repos\Leccion7_CicloWhile\Leccion7_CicloWhile\obj\Debug\net5.0\Leccion7_CicloWhile.genruntimeconfig.cache

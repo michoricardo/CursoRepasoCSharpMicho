@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Leccion9_CicloFor/1.0.0": {
+        "runtime": {
+          "Leccion9_CicloFor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Leccion9_CicloFor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leccion10_PedirInfoAUsuario", "Leccion10_PedirInfoAUsuario\Leccion10_PedirInfoAUsuario.csproj", "{8720C0C2-1DAE-4F4C-B5BA-2E879CCA1CCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8720C0C2-1DAE-4F4C-B5BA-2E879CCA1CCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8720C0C2-1DAE-4F4C-B5BA-2E879CCA1CCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8720C0C2-1DAE-4F4C-B5BA-2E879CCA1CCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8720C0C2-1DAE-4F4C-B5BA-2E879CCA1CCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D428E705-B793-451B-A71B-7E11AB6E2C94}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion10_PedirInfoAUsuario\Leccion10_PedirInfoAUsuario\bin\Debug\net5.0\Leccion10_PedirInfoAUsuario.exe
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion10_PedirInfoAUsuario\Leccion10_PedirInfoAUsuario\bin\Debug\net5.0\Leccion10_PedirInfoAUsuario.deps.json
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion10_PedirInfoAUsuario\Leccion10_PedirInfoAUsuario\bin\Debug\net5.0\Leccion10_PedirInfoAUsuario.runtimeconfig.json
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion10_PedirInfoAUsuario\Leccion10_PedirInfoAUsuario\bin\Debug\net5.0\Leccion10_PedirInfoAUsuario.runtimeconfig.dev.json
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion10_PedirInfoAUsuario\Leccion10_PedirInfoAUsuario\bin\Debug\net5.0\Leccion10_PedirInfoAUsuario.dll
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion10_PedirInfoAUsuario\Leccion10_PedirInfoAUsuario\bin\Debug\net5.0\ref\Leccion10_PedirInfoAUsuario.dll
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion10_PedirInfoAUsuario\Leccion10_PedirInfoAUsuario\bin\Debug\net5.0\Leccion10_PedirInfoAUsuario.pdb
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion10_PedirInfoAUsuario\Leccion10_PedirInfoAUsuario\obj\Debug\net5.0\Leccion10_PedirInfoAUsuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion10_PedirInfoAUsuario\Leccion10_PedirInfoAUsuario\obj\Debug\net5.0\Leccion10_PedirInfoAUsuario.AssemblyInfoInputs.cache
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion10_PedirInfoAUsuario\Leccion10_PedirInfoAUsuario\obj\Debug\net5.0\Leccion10_PedirInfoAUsuario.AssemblyInfo.cs
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion10_PedirInfoAUsuario\Leccion10_PedirInfoAUsuario\obj\Debug\net5.0\Leccion10_PedirInfoAUsuario.csproj.CoreCompileInputs.cache
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion10_PedirInfoAUsuario\Leccion10_PedirInfoAUsuario\obj\Debug\net5.0\Leccion10_PedirInfoAUsuario.dll
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion10_PedirInfoAUsuario\Leccion10_PedirInfoAUsuario\obj\Debug\net5.0\ref\Leccion10_PedirInfoAUsuario.dll
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion10_PedirInfoAUsuario\Leccion10_PedirInfoAUsuario\obj\Debug\net5.0\Leccion10_PedirInfoAUsuario.pdb
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion10_PedirInfoAUsuario\Leccion10_PedirInfoAUsuario\obj\Debug\net5.0\Leccion10_PedirInfoAUsuario.genruntimeconfig.cache
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion10_PedirInfoAUsuario\Leccion10_PedirInfoAUsuario\obj\Debug\net5.0\Leccion10_PedirInfoAUsuario.csproj.AssemblyReference.cache

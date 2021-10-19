@@ -1,0 +1,16 @@
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion6_CondicionalStringChar\Leccion6_CondicionalStringChar\bin\Debug\net5.0\Leccion6_CondicionalStringChar.exe
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion6_CondicionalStringChar\Leccion6_CondicionalStringChar\bin\Debug\net5.0\Leccion6_CondicionalStringChar.deps.json
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion6_CondicionalStringChar\Leccion6_CondicionalStringChar\bin\Debug\net5.0\Leccion6_CondicionalStringChar.runtimeconfig.json
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion6_CondicionalStringChar\Leccion6_CondicionalStringChar\bin\Debug\net5.0\Leccion6_CondicionalStringChar.runtimeconfig.dev.json
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion6_CondicionalStringChar\Leccion6_CondicionalStringChar\bin\Debug\net5.0\Leccion6_CondicionalStringChar.dll
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion6_CondicionalStringChar\Leccion6_CondicionalStringChar\bin\Debug\net5.0\ref\Leccion6_CondicionalStringChar.dll
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion6_CondicionalStringChar\Leccion6_CondicionalStringChar\bin\Debug\net5.0\Leccion6_CondicionalStringChar.pdb
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion6_CondicionalStringChar\Leccion6_CondicionalStringChar\obj\Debug\net5.0\Leccion6_CondicionalStringChar.csproj.AssemblyReference.cache
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion6_CondicionalStringChar\Leccion6_CondicionalStringChar\obj\Debug\net5.0\Leccion6_CondicionalStringChar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion6_CondicionalStringChar\Leccion6_CondicionalStringChar\obj\Debug\net5.0\Leccion6_CondicionalStringChar.AssemblyInfoInputs.cache
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion6_CondicionalStringChar\Leccion6_CondicionalStringChar\obj\Debug\net5.0\Leccion6_CondicionalStringChar.AssemblyInfo.cs
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion6_CondicionalStringChar\Leccion6_CondicionalStringChar\obj\Debug\net5.0\Leccion6_CondicionalStringChar.csproj.CoreCompileInputs.cache
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion6_CondicionalStringChar\Leccion6_CondicionalStringChar\obj\Debug\net5.0\Leccion6_CondicionalStringChar.dll
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion6_CondicionalStringChar\Leccion6_CondicionalStringChar\obj\Debug\net5.0\ref\Leccion6_CondicionalStringChar.dll
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion6_CondicionalStringChar\Leccion6_CondicionalStringChar\obj\Debug\net5.0\Leccion6_CondicionalStringChar.pdb
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion6_CondicionalStringChar\Leccion6_CondicionalStringChar\obj\Debug\net5.0\Leccion6_CondicionalStringChar.genruntimeconfig.cache

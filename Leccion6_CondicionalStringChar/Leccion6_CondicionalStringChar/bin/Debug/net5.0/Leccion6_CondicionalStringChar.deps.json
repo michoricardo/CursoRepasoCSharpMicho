@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Leccion6_CondicionalStringChar/1.0.0": {
+        "runtime": {
+          "Leccion6_CondicionalStringChar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Leccion6_CondicionalStringChar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
