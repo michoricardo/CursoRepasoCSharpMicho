@@ -1,0 +1,15 @@
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion 13 usando mas parametros\Leccion 13 usando mas parametros\bin\Debug\net5.0\Leccion 13 usando mas parametros.exe
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion 13 usando mas parametros\Leccion 13 usando mas parametros\bin\Debug\net5.0\Leccion 13 usando mas parametros.deps.json
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion 13 usando mas parametros\Leccion 13 usando mas parametros\bin\Debug\net5.0\Leccion 13 usando mas parametros.runtimeconfig.json
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion 13 usando mas parametros\Leccion 13 usando mas parametros\bin\Debug\net5.0\Leccion 13 usando mas parametros.runtimeconfig.dev.json
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion 13 usando mas parametros\Leccion 13 usando mas parametros\bin\Debug\net5.0\Leccion 13 usando mas parametros.dll
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion 13 usando mas parametros\Leccion 13 usando mas parametros\bin\Debug\net5.0\ref\Leccion 13 usando mas parametros.dll
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion 13 usando mas parametros\Leccion 13 usando mas parametros\bin\Debug\net5.0\Leccion 13 usando mas parametros.pdb
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion 13 usando mas parametros\Leccion 13 usando mas parametros\obj\Debug\net5.0\Leccion 13 usando mas parametros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion 13 usando mas parametros\Leccion 13 usando mas parametros\obj\Debug\net5.0\Leccion 13 usando mas parametros.AssemblyInfoInputs.cache
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion 13 usando mas parametros\Leccion 13 usando mas parametros\obj\Debug\net5.0\Leccion 13 usando mas parametros.AssemblyInfo.cs
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion 13 usando mas parametros\Leccion 13 usando mas parametros\obj\Debug\net5.0\Leccion 13 usando mas parametros.csproj.CoreCompileInputs.cache
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion 13 usando mas parametros\Leccion 13 usando mas parametros\obj\Debug\net5.0\Leccion 13 usando mas parametros.dll
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion 13 usando mas parametros\Leccion 13 usando mas parametros\obj\Debug\net5.0\ref\Leccion 13 usando mas parametros.dll
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion 13 usando mas parametros\Leccion 13 usando mas parametros\obj\Debug\net5.0\Leccion 13 usando mas parametros.pdb
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion 13 usando mas parametros\Leccion 13 usando mas parametros\obj\Debug\net5.0\Leccion 13 usando mas parametros.genruntimeconfig.cache

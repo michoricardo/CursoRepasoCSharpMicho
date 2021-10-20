@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Leccion12_Funciones/1.0.0": {
+        "runtime": {
+          "Leccion12_Funciones.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Leccion12_Funciones/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

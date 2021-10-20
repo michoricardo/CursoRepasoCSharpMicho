@@ -1,0 +1,16 @@
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion12_Funciones\Leccion12_Funciones\bin\Debug\net5.0\Leccion12_Funciones.exe
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion12_Funciones\Leccion12_Funciones\bin\Debug\net5.0\Leccion12_Funciones.deps.json
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion12_Funciones\Leccion12_Funciones\bin\Debug\net5.0\Leccion12_Funciones.runtimeconfig.json
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion12_Funciones\Leccion12_Funciones\bin\Debug\net5.0\Leccion12_Funciones.runtimeconfig.dev.json
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion12_Funciones\Leccion12_Funciones\bin\Debug\net5.0\Leccion12_Funciones.dll
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion12_Funciones\Leccion12_Funciones\bin\Debug\net5.0\ref\Leccion12_Funciones.dll
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion12_Funciones\Leccion12_Funciones\bin\Debug\net5.0\Leccion12_Funciones.pdb
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion12_Funciones\Leccion12_Funciones\obj\Debug\net5.0\Leccion12_Funciones.csproj.AssemblyReference.cache
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion12_Funciones\Leccion12_Funciones\obj\Debug\net5.0\Leccion12_Funciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion12_Funciones\Leccion12_Funciones\obj\Debug\net5.0\Leccion12_Funciones.AssemblyInfoInputs.cache
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion12_Funciones\Leccion12_Funciones\obj\Debug\net5.0\Leccion12_Funciones.AssemblyInfo.cs
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion12_Funciones\Leccion12_Funciones\obj\Debug\net5.0\Leccion12_Funciones.csproj.CoreCompileInputs.cache
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion12_Funciones\Leccion12_Funciones\obj\Debug\net5.0\Leccion12_Funciones.dll
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion12_Funciones\Leccion12_Funciones\obj\Debug\net5.0\ref\Leccion12_Funciones.dll
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion12_Funciones\Leccion12_Funciones\obj\Debug\net5.0\Leccion12_Funciones.pdb
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion12_Funciones\Leccion12_Funciones\obj\Debug\net5.0\Leccion12_Funciones.genruntimeconfig.cache
