@@ -1,0 +1,15 @@
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion16_SwitchCase\Leccion16_SwitchCase\bin\Debug\net5.0\Leccion16_SwitchCase.exe
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion16_SwitchCase\Leccion16_SwitchCase\bin\Debug\net5.0\Leccion16_SwitchCase.deps.json
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion16_SwitchCase\Leccion16_SwitchCase\bin\Debug\net5.0\Leccion16_SwitchCase.runtimeconfig.json
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion16_SwitchCase\Leccion16_SwitchCase\bin\Debug\net5.0\Leccion16_SwitchCase.runtimeconfig.dev.json
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion16_SwitchCase\Leccion16_SwitchCase\bin\Debug\net5.0\Leccion16_SwitchCase.dll
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion16_SwitchCase\Leccion16_SwitchCase\bin\Debug\net5.0\ref\Leccion16_SwitchCase.dll
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion16_SwitchCase\Leccion16_SwitchCase\bin\Debug\net5.0\Leccion16_SwitchCase.pdb
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion16_SwitchCase\Leccion16_SwitchCase\obj\Debug\net5.0\Leccion16_SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion16_SwitchCase\Leccion16_SwitchCase\obj\Debug\net5.0\Leccion16_SwitchCase.AssemblyInfoInputs.cache
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion16_SwitchCase\Leccion16_SwitchCase\obj\Debug\net5.0\Leccion16_SwitchCase.AssemblyInfo.cs
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion16_SwitchCase\Leccion16_SwitchCase\obj\Debug\net5.0\Leccion16_SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion16_SwitchCase\Leccion16_SwitchCase\obj\Debug\net5.0\Leccion16_SwitchCase.dll
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion16_SwitchCase\Leccion16_SwitchCase\obj\Debug\net5.0\ref\Leccion16_SwitchCase.dll
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion16_SwitchCase\Leccion16_SwitchCase\obj\Debug\net5.0\Leccion16_SwitchCase.pdb
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion16_SwitchCase\Leccion16_SwitchCase\obj\Debug\net5.0\Leccion16_SwitchCase.genruntimeconfig.cache

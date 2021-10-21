@@ -1,0 +1,15 @@
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion15_NumerosAleatorios\Leccion15_NumerosAleatorios\bin\Debug\net5.0\Leccion15_NumerosAleatorios.exe
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion15_NumerosAleatorios\Leccion15_NumerosAleatorios\bin\Debug\net5.0\Leccion15_NumerosAleatorios.deps.json
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion15_NumerosAleatorios\Leccion15_NumerosAleatorios\bin\Debug\net5.0\Leccion15_NumerosAleatorios.runtimeconfig.json
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion15_NumerosAleatorios\Leccion15_NumerosAleatorios\bin\Debug\net5.0\Leccion15_NumerosAleatorios.runtimeconfig.dev.json
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion15_NumerosAleatorios\Leccion15_NumerosAleatorios\bin\Debug\net5.0\Leccion15_NumerosAleatorios.dll
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion15_NumerosAleatorios\Leccion15_NumerosAleatorios\bin\Debug\net5.0\ref\Leccion15_NumerosAleatorios.dll
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion15_NumerosAleatorios\Leccion15_NumerosAleatorios\bin\Debug\net5.0\Leccion15_NumerosAleatorios.pdb
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion15_NumerosAleatorios\Leccion15_NumerosAleatorios\obj\Debug\net5.0\Leccion15_NumerosAleatorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion15_NumerosAleatorios\Leccion15_NumerosAleatorios\obj\Debug\net5.0\Leccion15_NumerosAleatorios.AssemblyInfoInputs.cache
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion15_NumerosAleatorios\Leccion15_NumerosAleatorios\obj\Debug\net5.0\Leccion15_NumerosAleatorios.AssemblyInfo.cs
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion15_NumerosAleatorios\Leccion15_NumerosAleatorios\obj\Debug\net5.0\Leccion15_NumerosAleatorios.csproj.CoreCompileInputs.cache
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion15_NumerosAleatorios\Leccion15_NumerosAleatorios\obj\Debug\net5.0\Leccion15_NumerosAleatorios.dll
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion15_NumerosAleatorios\Leccion15_NumerosAleatorios\obj\Debug\net5.0\ref\Leccion15_NumerosAleatorios.dll
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion15_NumerosAleatorios\Leccion15_NumerosAleatorios\obj\Debug\net5.0\Leccion15_NumerosAleatorios.pdb
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Curso repaso CSharp\Leccion15_NumerosAleatorios\Leccion15_NumerosAleatorios\obj\Debug\net5.0\Leccion15_NumerosAleatorios.genruntimeconfig.cache
